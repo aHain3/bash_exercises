@@ -1,4 +1,0 @@
-ex1.sh
-ex2.sh
-ex3.sh
-filelist.txt
